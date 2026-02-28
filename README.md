@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Messie Matala
 
-<!--
-**MESSIE2026/MESSIE2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Développeur Full-Stack .NET  
+📍 Kinshasa, RDC  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies
+- C# / .NET
+- SQL Server
+- WinForms
+- Blazor
+- Entity Framework
+
+---
+
+## 📦 Projets principaux
+- 🛒 Application de gestion de boutique (POS)
+- 📊 Gestion de stock avec lots et expiration
+- 🔐 Système multi-clients (multi-tenant)
+
+---
+
+## 📫 Me contacter
+- Email : messiematala77@gmail.com
+
+---
+
+## 🔥 Objectif
+Créer des solutions professionnelles pour les entreprises africaines.
